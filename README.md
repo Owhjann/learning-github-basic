@@ -1,2 +1,3 @@
 # learning-github-basic
-Repository untuk belajar basic github
+## Judul ke-2
+*Repository untuk belajar basic github*
